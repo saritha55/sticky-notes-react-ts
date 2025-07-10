@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sticky Notes – React + TypeScript Application
 
 ## Overview
@@ -31,3 +32,6 @@ git clone https://github.com/YOUR_USERNAME/sticky-notes-react-ts.git
 cd sticky-notes-react-ts
 npm install
 npm start
+=======
+# sticky-notes-react-ts
+>>>>>>> 53dd902c2254cf2c5fc4d055789d8318d28caf8d
